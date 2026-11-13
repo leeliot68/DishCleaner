@@ -1,0 +1,1798 @@
+fileFormatVersion: 2
+guid: bcc35e1bb06210545a3cd46478b61ec0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3232939682039344024
+    second: Sink_Spritesheet_0
+  - first:
+      213: 2651222901173209222
+    second: Sink_Spritesheet_1
+  - first:
+      213: -8768969644848540728
+    second: Sink_Spritesheet_2
+  - first:
+      213: 8587273506077811732
+    second: Sink_Spritesheet_3
+  - first:
+      213: 3487749615517697480
+    second: Sink_Spritesheet_4
+  - first:
+      213: -6395500548485939546
+    second: Sink_Spritesheet_5
+  - first:
+      213: 8074439954861092070
+    second: Sink_Spritesheet_6
+  - first:
+      213: -9066836957648025739
+    second: Sink_Spritesheet_7
+  - first:
+      213: -6260744737860187105
+    second: Sink_Spritesheet_8
+  - first:
+      213: -444125118110188531
+    second: Sink_Spritesheet_9
+  - first:
+      213: -6721740788816062936
+    second: Sink_Spritesheet_10
+  - first:
+      213: 4234904522730773604
+    second: Sink_Spritesheet_11
+  - first:
+      213: 7873075605502377648
+    second: Sink_Spritesheet_12
+  - first:
+      213: -5800166275428015345
+    second: Sink_Spritesheet_13
+  - first:
+      213: 5627467295142752604
+    second: Sink_Spritesheet_14
+  - first:
+      213: 2025987642187864422
+    second: Sink_Spritesheet_15
+  - first:
+      213: -6956969715703600205
+    second: Sink_Spritesheet_16
+  - first:
+      213: -6599106947686439048
+    second: Sink_Spritesheet_17
+  - first:
+      213: -2300776498778588878
+    second: Sink_Spritesheet_18
+  - first:
+      213: 6990218737102199418
+    second: Sink_Spritesheet_19
+  - first:
+      213: 5565617673287685196
+    second: Sink_Spritesheet_20
+  - first:
+      213: -110258617348276257
+    second: Sink_Spritesheet_21
+  - first:
+      213: -1671531260323712877
+    second: Sink_Spritesheet_22
+  - first:
+      213: 6627479464045700596
+    second: Sink_Spritesheet_23
+  - first:
+      213: -117759665653623411
+    second: Sink_Spritesheet_24
+  - first:
+      213: -8892946865957699819
+    second: Sink_Spritesheet_25
+  - first:
+      213: 5236807998184091180
+    second: Sink_Spritesheet_26
+  - first:
+      213: 8890140309790312420
+    second: Sink_Spritesheet_27
+  - first:
+      213: -6788980795783799915
+    second: Sink_Spritesheet_28
+  - first:
+      213: 9035216707558740208
+    second: Sink_Spritesheet_29
+  - first:
+      213: -5842736268524651668
+    second: Sink_Spritesheet_30
+  - first:
+      213: 946198376749098143
+    second: Sink_Spritesheet_31
+  - first:
+      213: 3976953967367479280
+    second: Sink_Spritesheet_32
+  - first:
+      213: 5484767090061670285
+    second: Sink_Spritesheet_33
+  - first:
+      213: -2494800243261557736
+    second: Sink_Spritesheet_34
+  - first:
+      213: -6279518493551753130
+    second: Sink_Spritesheet_35
+  - first:
+      213: 6483880374128492289
+    second: Sink_Spritesheet_36
+  - first:
+      213: -4808469127161847833
+    second: Sink_Spritesheet_37
+  - first:
+      213: 4458780435991280173
+    second: Sink_Spritesheet_38
+  - first:
+      213: -8592923142809090458
+    second: Sink_Spritesheet_39
+  - first:
+      213: -5503172192652623052
+    second: Sink_Spritesheet_40
+  - first:
+      213: -4751582725506687175
+    second: Sink_Spritesheet_41
+  - first:
+      213: -2489107560552785684
+    second: Sink_Spritesheet_42
+  - first:
+      213: -6651368791522630943
+    second: Sink_Spritesheet_43
+  - first:
+      213: 4218262106247239520
+    second: Sink_Spritesheet_44
+  - first:
+      213: 3719042171704528936
+    second: Sink_Spritesheet_45
+  - first:
+      213: 5130404153103797878
+    second: Sink_Spritesheet_46
+  - first:
+      213: 3240455225499713011
+    second: Sink_Spritesheet_47
+  - first:
+      213: 5071940840008731569
+    second: Sink_Spritesheet_48
+  - first:
+      213: -645028620439558726
+    second: Sink_Spritesheet_49
+  - first:
+      213: -1576334592034522421
+    second: Sink_Spritesheet_50
+  - first:
+      213: -1428463803129266838
+    second: Sink_Spritesheet_51
+  - first:
+      213: -3677793677701427855
+    second: Sink_Spritesheet_52
+  - first:
+      213: -8855303880248584284
+    second: Sink_Spritesheet_53
+  - first:
+      213: -8484046654686085490
+    second: Sink_Spritesheet_54
+  - first:
+      213: 2615401970671823716
+    second: Sink_Spritesheet_55
+  - first:
+      213: 7637211362644055977
+    second: Sink_Spritesheet_56
+  - first:
+      213: 6883208664522457905
+    second: Sink_Spritesheet_57
+  - first:
+      213: -5987150265313214191
+    second: Sink_Spritesheet_58
+  - first:
+      213: 3634465022043608623
+    second: Sink_Spritesheet_59
+  - first:
+      213: 1183089827249319903
+    second: Sink_Spritesheet_60
+  - first:
+      213: -5344909455447139448
+    second: Sink_Spritesheet_61
+  - first:
+      213: 70728900079117567
+    second: Sink_Spritesheet_62
+  - first:
+      213: 6431647864184003147
+    second: Sink_Spritesheet_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sink_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 226
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b28301385bddc20800000000000000
+      internalID: 3232939682039344024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 226
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6884fcc8e290bc420800000000000000
+      internalID: 2651222901173209222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 226
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c39e98619c5e4680800000000000000
+      internalID: -8768969644848540728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 226
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41424e6a1cf1c2770800000000000000
+      internalID: 8587273506077811732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 226
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c50072ebc9f66030800000000000000
+      internalID: 3487749615517697480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 226
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aefdaec22e9e37a0800000000000000
+      internalID: -6395500548485939546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 226
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec67b5db5c2e0070800000000000000
+      internalID: 8074439954861092070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 226
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577810f33df1c2280800000000000000
+      internalID: -9066836957648025739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 194
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c827ee4dd5d19a0800000000000000
+      internalID: -6260744737860187105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 194
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0cb633ee8626d9f0800000000000000
+      internalID: -444125118110188531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 194
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8265d5aad5497b2a0800000000000000
+      internalID: -6721740788816062936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 194
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c1017d93765ca30800000000000000
+      internalID: 4234904522730773604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 194
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be33c3cc88c24d60800000000000000
+      internalID: 7873075605502377648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 194
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03a9eac08ba18fa0800000000000000
+      internalID: -5800166275428015345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 194
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51bc1870b7c81e40800000000000000
+      internalID: 5627467295142752604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 194
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66950f3c601cd1c10800000000000000
+      internalID: 2025987642187864422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 162
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb265637e0e37f90800000000000000
+      internalID: -6956969715703600205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 162
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8776654d1334b64a0800000000000000
+      internalID: -6599106947686439048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 162
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2393cb2e6fff110e0800000000000000
+      internalID: -2300776498778588878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 162
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a9147d7ee320160800000000000000
+      internalID: 6990218737102199418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 162
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44d2f339cb0d3d40800000000000000
+      internalID: 5565617673287685196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 162
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfb7872f58487ef0800000000000000
+      internalID: -110258617348276257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 162
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390b175cc278dc8e0800000000000000
+      internalID: -1671531260323712877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 162
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5e3aa657989fb50800000000000000
+      internalID: 6627479464045700596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 130
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85d8df3532ad5ef0800000000000000
+      internalID: -117759665653623411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 130
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51ffa2831f7e59480800000000000000
+      internalID: -8892946865957699819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 130
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eefa8e021eca840800000000000000
+      internalID: 5236807998184091180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 130
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7ce60828f106b70800000000000000
+      internalID: 8890140309790312420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 130
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b9b509fe1b8c1a0800000000000000
+      internalID: -6788980795783799915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 130
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f096b299b9836d70800000000000000
+      internalID: 9035216707558740208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 130
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6bfb46e15e6aeea0800000000000000
+      internalID: -5842736268524651668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 130
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f946e251962912d00800000000000000
+      internalID: 946198376749098143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 98
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffd401009af03730800000000000000
+      internalID: 3976953967367479280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 98
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87f0eedb9ecd1c40800000000000000
+      internalID: 5484767090061670285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 98
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81436d29560b06dd0800000000000000
+      internalID: -2494800243261557736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 98
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6580a5f433baad8a0800000000000000
+      internalID: -6279518493551753130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 98
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f3e02e8de5bf950800000000000000
+      internalID: 6483880374128492289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 98
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efd5122ec2e44db0800000000000000
+      internalID: -4808469127161847833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 98
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ab8b2de25c0ed30800000000000000
+      internalID: 4458780435991280173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 98
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66681aacdedcfb880800000000000000
+      internalID: -8592923142809090458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 66
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433022f3c0ec0a3b0800000000000000
+      internalID: -5503172192652623052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 66
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f9a45afacfe0eb0800000000000000
+      internalID: -4751582725506687175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 66
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8138d8cd9e47dd0800000000000000
+      internalID: -2489107560552785684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 66
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2ac27135791b3a0800000000000000
+      internalID: -6651368791522630943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 66
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0679b5c49074a8a30800000000000000
+      internalID: 4218262106247239520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 66
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820552d9621bc9330800000000000000
+      internalID: 3719042171704528936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 66
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ec0fb256bd23740800000000000000
+      internalID: 5130404153103797878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 66
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdf772ebd868fc20800000000000000
+      internalID: 3240455225499713011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 34
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb448a5257236640800000000000000
+      internalID: 5071940840008731569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 34
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab56db023e56c07f0800000000000000
+      internalID: -645028620439558726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 34
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca3f925a0cbf1ae0800000000000000
+      internalID: -1576334592034522421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 34
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6df9f74db31d2ce0800000000000000
+      internalID: -1428463803129266838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 34
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17dcd6bc22ad5fcc0800000000000000
+      internalID: -3677793677701427855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 34
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a715afc904ab1580800000000000000
+      internalID: -8855303880248584284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 34
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e3899948c924a80800000000000000
+      internalID: -8484046654686085490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 34
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b20ce3c36cb4420800000000000000
+      internalID: 2615401970671823716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a7d9f84543dcf960800000000000000
+      internalID: 7637211362644055977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13380c3cfc1168f50800000000000000
+      internalID: 6883208664522457905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 2
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111ce131e8e59eca0800000000000000
+      internalID: -5987150265313214191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26dd7b6ea6307230800000000000000
+      internalID: 3634465022043608623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfe29afded2b6010800000000000000
+      internalID: 1183089827249319903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b52773b2113d5b0800000000000000
+      internalID: -5344909455447139448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4e1945f874bf000800000000000000
+      internalID: 70728900079117567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sink_Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a5619f7adc14950800000000000000
+      internalID: 6431647864184003147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b10ccaf09f5b8f54180e9929686daa87
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Sink_Spritesheet_0: 3232939682039344024
+      Sink_Spritesheet_1: 2651222901173209222
+      Sink_Spritesheet_10: -6721740788816062936
+      Sink_Spritesheet_11: 4234904522730773604
+      Sink_Spritesheet_12: 7873075605502377648
+      Sink_Spritesheet_13: -5800166275428015345
+      Sink_Spritesheet_14: 5627467295142752604
+      Sink_Spritesheet_15: 2025987642187864422
+      Sink_Spritesheet_16: -6956969715703600205
+      Sink_Spritesheet_17: -6599106947686439048
+      Sink_Spritesheet_18: -2300776498778588878
+      Sink_Spritesheet_19: 6990218737102199418
+      Sink_Spritesheet_2: -8768969644848540728
+      Sink_Spritesheet_20: 5565617673287685196
+      Sink_Spritesheet_21: -110258617348276257
+      Sink_Spritesheet_22: -1671531260323712877
+      Sink_Spritesheet_23: 6627479464045700596
+      Sink_Spritesheet_24: -117759665653623411
+      Sink_Spritesheet_25: -8892946865957699819
+      Sink_Spritesheet_26: 5236807998184091180
+      Sink_Spritesheet_27: 8890140309790312420
+      Sink_Spritesheet_28: -6788980795783799915
+      Sink_Spritesheet_29: 9035216707558740208
+      Sink_Spritesheet_3: 8587273506077811732
+      Sink_Spritesheet_30: -5842736268524651668
+      Sink_Spritesheet_31: 946198376749098143
+      Sink_Spritesheet_32: 3976953967367479280
+      Sink_Spritesheet_33: 5484767090061670285
+      Sink_Spritesheet_34: -2494800243261557736
+      Sink_Spritesheet_35: -6279518493551753130
+      Sink_Spritesheet_36: 6483880374128492289
+      Sink_Spritesheet_37: -4808469127161847833
+      Sink_Spritesheet_38: 4458780435991280173
+      Sink_Spritesheet_39: -8592923142809090458
+      Sink_Spritesheet_4: 3487749615517697480
+      Sink_Spritesheet_40: -5503172192652623052
+      Sink_Spritesheet_41: -4751582725506687175
+      Sink_Spritesheet_42: -2489107560552785684
+      Sink_Spritesheet_43: -6651368791522630943
+      Sink_Spritesheet_44: 4218262106247239520
+      Sink_Spritesheet_45: 3719042171704528936
+      Sink_Spritesheet_46: 5130404153103797878
+      Sink_Spritesheet_47: 3240455225499713011
+      Sink_Spritesheet_48: 5071940840008731569
+      Sink_Spritesheet_49: -645028620439558726
+      Sink_Spritesheet_5: -6395500548485939546
+      Sink_Spritesheet_50: -1576334592034522421
+      Sink_Spritesheet_51: -1428463803129266838
+      Sink_Spritesheet_52: -3677793677701427855
+      Sink_Spritesheet_53: -8855303880248584284
+      Sink_Spritesheet_54: -8484046654686085490
+      Sink_Spritesheet_55: 2615401970671823716
+      Sink_Spritesheet_56: 7637211362644055977
+      Sink_Spritesheet_57: 6883208664522457905
+      Sink_Spritesheet_58: -5987150265313214191
+      Sink_Spritesheet_59: 3634465022043608623
+      Sink_Spritesheet_6: 8074439954861092070
+      Sink_Spritesheet_60: 1183089827249319903
+      Sink_Spritesheet_61: -5344909455447139448
+      Sink_Spritesheet_62: 70728900079117567
+      Sink_Spritesheet_63: 6431647864184003147
+      Sink_Spritesheet_7: -9066836957648025739
+      Sink_Spritesheet_8: -6260744737860187105
+      Sink_Spritesheet_9: -444125118110188531
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
