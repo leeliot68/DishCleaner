@@ -698,6 +698,7 @@ GameObject:
   m_Component:
   - component: {fileID: 581108652}
   - component: {fileID: 581108653}
+  - component: {fileID: 581108654}
   m_Layer: 0
   m_Name: Visual
   m_TagString: Untagged
@@ -780,6 +781,23 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
   m_BlendShapeWeights: []
+--- !u!114 &581108654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 581108651}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e823d9b4717f0e48ba00386cfa1618d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  spriteRenderer: {fileID: 581108653}
+  sink: {fileID: 73129108}
+  emptySinkSprite: {fileID: -8768969644848540728, guid: bcc35e1bb06210545a3cd46478b61ec0, type: 3}
+  cleaningSinkSprite: {fileID: 8170836250311265681, guid: 5167490d9bee19d4f9556df3394daa8c, type: 3}
+  cleanedSinkSprite: {fileID: -650655632168689693, guid: 5167490d9bee19d4f9556df3394daa8c, type: 3}
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
