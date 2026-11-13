@@ -1,0 +1,1798 @@
+fileFormatVersion: 2
+guid: 1e0204d50c4a5a44bb6a5474be1d2fbd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5506108128654771262
+    second: SellingStation_0
+  - first:
+      213: -7748414310655883398
+    second: SellingStation_1
+  - first:
+      213: -7250471396084063460
+    second: SellingStation_2
+  - first:
+      213: 237741040277086958
+    second: SellingStation_3
+  - first:
+      213: -8725602859065712465
+    second: SellingStation_4
+  - first:
+      213: 1555176490991547731
+    second: SellingStation_5
+  - first:
+      213: -1800690319427371184
+    second: SellingStation_6
+  - first:
+      213: -5991644244305833235
+    second: SellingStation_7
+  - first:
+      213: 1491000967334027391
+    second: SellingStation_8
+  - first:
+      213: 708917864558378649
+    second: SellingStation_9
+  - first:
+      213: 7734700249192510937
+    second: SellingStation_10
+  - first:
+      213: 904465653466280614
+    second: SellingStation_11
+  - first:
+      213: -389726604178629598
+    second: SellingStation_12
+  - first:
+      213: -2021528395286926392
+    second: SellingStation_13
+  - first:
+      213: 4979044728247115383
+    second: SellingStation_14
+  - first:
+      213: -1454928179214382356
+    second: SellingStation_15
+  - first:
+      213: 1382912449064475982
+    second: SellingStation_16
+  - first:
+      213: 403501434148662397
+    second: SellingStation_17
+  - first:
+      213: 1420088246482020555
+    second: SellingStation_18
+  - first:
+      213: 7729049476116166201
+    second: SellingStation_19
+  - first:
+      213: 2018359345875256565
+    second: SellingStation_20
+  - first:
+      213: 8159565783284530621
+    second: SellingStation_21
+  - first:
+      213: -3657635301625325153
+    second: SellingStation_22
+  - first:
+      213: -5667538840137899364
+    second: SellingStation_23
+  - first:
+      213: -2838425534624071014
+    second: SellingStation_24
+  - first:
+      213: -5992611638518651966
+    second: SellingStation_25
+  - first:
+      213: -1303907479502433861
+    second: SellingStation_26
+  - first:
+      213: 1278213971062907453
+    second: SellingStation_27
+  - first:
+      213: -9135015980511168110
+    second: SellingStation_28
+  - first:
+      213: -6254339806477202902
+    second: SellingStation_29
+  - first:
+      213: -6376735790276692925
+    second: SellingStation_30
+  - first:
+      213: 6916059331004103943
+    second: SellingStation_31
+  - first:
+      213: -3757296618080923364
+    second: SellingStation_32
+  - first:
+      213: -6673057927201483091
+    second: SellingStation_33
+  - first:
+      213: -4907633864371811323
+    second: SellingStation_34
+  - first:
+      213: 4612614684920686826
+    second: SellingStation_35
+  - first:
+      213: 4541192192880554710
+    second: SellingStation_36
+  - first:
+      213: -3778218905711490028
+    second: SellingStation_37
+  - first:
+      213: -2188512668292311532
+    second: SellingStation_38
+  - first:
+      213: -1103774868422672034
+    second: SellingStation_39
+  - first:
+      213: 4613209601793709426
+    second: SellingStation_40
+  - first:
+      213: -9128620638408955853
+    second: SellingStation_41
+  - first:
+      213: 5912852811259165831
+    second: SellingStation_42
+  - first:
+      213: 8913167188350628538
+    second: SellingStation_43
+  - first:
+      213: 6922280586364162597
+    second: SellingStation_44
+  - first:
+      213: 4097992185332417852
+    second: SellingStation_45
+  - first:
+      213: 9018288699161676517
+    second: SellingStation_46
+  - first:
+      213: -930617351407627419
+    second: SellingStation_47
+  - first:
+      213: -8457805227693183776
+    second: SellingStation_48
+  - first:
+      213: -8972454310518384405
+    second: SellingStation_49
+  - first:
+      213: 2345881984210467944
+    second: SellingStation_50
+  - first:
+      213: -5488806990090788282
+    second: SellingStation_51
+  - first:
+      213: -2401521354645422738
+    second: SellingStation_52
+  - first:
+      213: 8522338715376337426
+    second: SellingStation_53
+  - first:
+      213: 207302566946938922
+    second: SellingStation_54
+  - first:
+      213: 1613080599920886901
+    second: SellingStation_55
+  - first:
+      213: 6301350742412830968
+    second: SellingStation_56
+  - first:
+      213: 5430917987522828762
+    second: SellingStation_57
+  - first:
+      213: -3112789914158812316
+    second: SellingStation_58
+  - first:
+      213: 2318565374582292415
+    second: SellingStation_59
+  - first:
+      213: -2539923781053202668
+    second: SellingStation_60
+  - first:
+      213: -7635345834401137042
+    second: SellingStation_61
+  - first:
+      213: 7098022551048064879
+    second: SellingStation_62
+  - first:
+      213: 2359520073190695645
+    second: SellingStation_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SellingStation_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 227
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34cb5f9b20a96c40800000000000000
+      internalID: 5506108128654771262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 227
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a778dc0cc3a187490800000000000000
+      internalID: -7748414310655883398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 227
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13674e0ea6216b90800000000000000
+      internalID: -7250471396084063460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 227
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee26f3e6730ac4300800000000000000
+      internalID: 237741040277086958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 227
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0614e0e6e68e680800000000000000
+      internalID: -8725602859065712465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 228
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355f69467c8159510800000000000000
+      internalID: 1555176490991547731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 226
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ffb08e1b9a207e0800000000000000
+      internalID: -1800690319427371184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 226
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de213ad0e4769dca0800000000000000
+      internalID: -5991644244305833235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 195
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7065b9ea7911b410800000000000000
+      internalID: 1491000967334027391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 195
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e3ee3ba0596d900800000000000000
+      internalID: 708917864558378649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 195
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5be3d75ec275b60800000000000000
+      internalID: 7734700249192510937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 194
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2366248be4d8c00800000000000000
+      internalID: 904465653466280614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_12
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 195
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cd966e7b9679af0800000000000000
+      internalID: -389726604178629598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_13
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 195
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbae8f82a612f3e0800000000000000
+      internalID: -2021528395286926392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 193
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e53fbdcce191540800000000000000
+      internalID: 4979044728247115383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_15
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 194
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea8830978e0fcbe0800000000000000
+      internalID: -1454928179214382356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 163
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d14f1ab87113310800000000000000
+      internalID: 1382912449064475982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 162
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7caac0aa66899500800000000000000
+      internalID: 403501434148662397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 162
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8a4497cba25b310800000000000000
+      internalID: 1420088246482020555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 161
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936b25b5c89134b60800000000000000
+      internalID: 7729049476116166201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_20
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 163
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f40cff9127a20c10800000000000000
+      internalID: 2018359345875256565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_21
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 163
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd3b1249d99c3170800000000000000
+      internalID: 8159565783284530621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_22
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 162
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9991b872187d3dc0800000000000000
+      internalID: -3657635301625325153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_23
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 163
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92e9dae37bd851b0800000000000000
+      internalID: -5667538840137899364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 131
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92855fc303eb98d0800000000000000
+      internalID: -2838425534624071014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 131
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c369390777f5dca0800000000000000
+      internalID: -5992611638518651966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 130
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb158484e0797ede0800000000000000
+      internalID: -1303907479502433861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_27
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 130
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32652c95d02db110800000000000000
+      internalID: 1278213971062907453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_28
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 131
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2997d187d57e93180800000000000000
+      internalID: -9135015980511168110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_29
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 131
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a475a351f1439a0800000000000000
+      internalID: -6254339806477202902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 131
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344b90a85984187a0800000000000000
+      internalID: -6376735790276692925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_31
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 131
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d76069157caff50800000000000000
+      internalID: 6916059331004103943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 98
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11928302a66bdbc0800000000000000
+      internalID: -3757296618080923364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_33
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 98
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da61d8bab298463a0800000000000000
+      internalID: -6673057927201483091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 99
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cc07a800594ebb0800000000000000
+      internalID: -4907633864371811323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_35
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 99
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8a2740e9c430040800000000000000
+      internalID: 4612614684920686826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 97
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d23c693d3e850f30800000000000000
+      internalID: 4541192192880554710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_37
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 100
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cc6615ce1119bc0800000000000000
+      internalID: -3778218905711490028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_38
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 99
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4169efbc257d0a1e0800000000000000
+      internalID: -2188512668292311532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_39
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 98
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51c9afea9a9ea0f0800000000000000
+      internalID: -1103774868422672034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 67
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275d555e0b9650040800000000000000
+      internalID: 4613209601793709426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_41
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 67
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338a55615ef905180800000000000000
+      internalID: -9128620638408955853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_42
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 67
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cb540ed4cae0250800000000000000
+      internalID: 5912852811259165831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_43
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 66
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab27e45755ee1bb70800000000000000
+      internalID: 8913167188350628538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_44
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 67
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52291d97481e01060800000000000000
+      internalID: 6922280586364162597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_45
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 67
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35c0133e2efed830800000000000000
+      internalID: 4097992185332417852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_46
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 67
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea837b7ac5672d70800000000000000
+      internalID: 9018288699161676517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_47
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 66
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56398831378c513f0800000000000000
+      internalID: -930617351407627419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 34
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ece7efe4f6df9a80800000000000000
+      internalID: -8457805227693183776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_49
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 34
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8112ab7507b7380800000000000000
+      internalID: -8972454310518384405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_50
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 34
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c7ad15c3f3e8020800000000000000
+      internalID: 2345881984210467944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_51
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 34
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64225fa9f17d3d3b0800000000000000
+      internalID: -5488806990090788282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_52
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 35
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d38df3d051caed0800000000000000
+      internalID: -2401521354645422738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_53
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 34
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212c09988ed654670800000000000000
+      internalID: 8522338715376337426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_54
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 34
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2026e7169c70e200800000000000000
+      internalID: 207302566946938922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_55
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 34
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574cb585240d26610800000000000000
+      internalID: 1613080599920886901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f829ae3d15e27750800000000000000
+      internalID: 6301350742412830968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_57
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9d39aa22f7e5b40800000000000000
+      internalID: 5430917987522828762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_58
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 3
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463352ab0162dc4d0800000000000000
+      internalID: -3112789914158812316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_59
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 4
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf7f748ce23d2020800000000000000
+      internalID: 2318565374582292415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_60
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fb1c937c060ccd0800000000000000
+      internalID: -2539923781053202668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_61
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 3
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ef24bda6dc90690800000000000000
+      internalID: -7635345834401137042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_62
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 3
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f8eea37ed318260800000000000000
+      internalID: 7098022551048064879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SellingStation_63
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd26fea5103beb020800000000000000
+      internalID: 2359520073190695645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3cb1a1987ba281e439d6d7490498443d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      SellingStation_0: 5506108128654771262
+      SellingStation_1: -7748414310655883398
+      SellingStation_10: 7734700249192510937
+      SellingStation_11: 904465653466280614
+      SellingStation_12: -389726604178629598
+      SellingStation_13: -2021528395286926392
+      SellingStation_14: 4979044728247115383
+      SellingStation_15: -1454928179214382356
+      SellingStation_16: 1382912449064475982
+      SellingStation_17: 403501434148662397
+      SellingStation_18: 1420088246482020555
+      SellingStation_19: 7729049476116166201
+      SellingStation_2: -7250471396084063460
+      SellingStation_20: 2018359345875256565
+      SellingStation_21: 8159565783284530621
+      SellingStation_22: -3657635301625325153
+      SellingStation_23: -5667538840137899364
+      SellingStation_24: -2838425534624071014
+      SellingStation_25: -5992611638518651966
+      SellingStation_26: -1303907479502433861
+      SellingStation_27: 1278213971062907453
+      SellingStation_28: -9135015980511168110
+      SellingStation_29: -6254339806477202902
+      SellingStation_3: 237741040277086958
+      SellingStation_30: -6376735790276692925
+      SellingStation_31: 6916059331004103943
+      SellingStation_32: -3757296618080923364
+      SellingStation_33: -6673057927201483091
+      SellingStation_34: -4907633864371811323
+      SellingStation_35: 4612614684920686826
+      SellingStation_36: 4541192192880554710
+      SellingStation_37: -3778218905711490028
+      SellingStation_38: -2188512668292311532
+      SellingStation_39: -1103774868422672034
+      SellingStation_4: -8725602859065712465
+      SellingStation_40: 4613209601793709426
+      SellingStation_41: -9128620638408955853
+      SellingStation_42: 5912852811259165831
+      SellingStation_43: 8913167188350628538
+      SellingStation_44: 6922280586364162597
+      SellingStation_45: 4097992185332417852
+      SellingStation_46: 9018288699161676517
+      SellingStation_47: -930617351407627419
+      SellingStation_48: -8457805227693183776
+      SellingStation_49: -8972454310518384405
+      SellingStation_5: 1555176490991547731
+      SellingStation_50: 2345881984210467944
+      SellingStation_51: -5488806990090788282
+      SellingStation_52: -2401521354645422738
+      SellingStation_53: 8522338715376337426
+      SellingStation_54: 207302566946938922
+      SellingStation_55: 1613080599920886901
+      SellingStation_56: 6301350742412830968
+      SellingStation_57: 5430917987522828762
+      SellingStation_58: -3112789914158812316
+      SellingStation_59: 2318565374582292415
+      SellingStation_6: -1800690319427371184
+      SellingStation_60: -2539923781053202668
+      SellingStation_61: -7635345834401137042
+      SellingStation_62: 7098022551048064879
+      SellingStation_63: 2359520073190695645
+      SellingStation_7: -5991644244305833235
+      SellingStation_8: 1491000967334027391
+      SellingStation_9: 708917864558378649
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

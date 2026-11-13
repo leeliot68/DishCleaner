@@ -11,7 +11,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Interactable
   - 
   - 
   - 
@@ -44,20 +44,23 @@ TagManager:
   - name: Ground
     uniqueID: 2587974633
     locked: 0
+  - name: Decor
+    uniqueID: 2260534133
+    locked: 0
   - name: Walk in front
     uniqueID: 447773695
     locked: 0
   - name: Collision
     uniqueID: 2963580893
     locked: 0
+  - name: Items
+    uniqueID: 631902205
+    locked: 0
   - name: Player
     uniqueID: 2594248843
     locked: 0
   - name: Walk Behind
     uniqueID: 355342839
-    locked: 0
-  - name: Decor
-    uniqueID: 2260534133
     locked: 0
   m_RenderingLayers:
   - Default
