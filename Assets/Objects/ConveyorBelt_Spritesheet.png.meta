@@ -1,0 +1,2552 @@
+fileFormatVersion: 2
+guid: aedbcc8252faa5648958ded33f338e7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1672733834063303009
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_0
+  - first:
+      213: 7589163117716582781
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_1
+  - first:
+      213: -344388250662612631
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_2
+  - first:
+      213: 1138052432647223309
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_3
+  - first:
+      213: -7995129209763872678
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_4
+  - first:
+      213: -948427898302067672
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_5
+  - first:
+      213: -2139794586425998432
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_6
+  - first:
+      213: -7674929500624981702
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_7
+  - first:
+      213: -4563259891452956602
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_8
+  - first:
+      213: -8831350617219936020
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_9
+  - first:
+      213: 5690694587016869705
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_10
+  - first:
+      213: 6957820742454637474
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_11
+  - first:
+      213: 7522843610965134604
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_12
+  - first:
+      213: 4348721485857027202
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_13
+  - first:
+      213: 1119105379924591124
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_14
+  - first:
+      213: -1125782692333197118
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_15
+  - first:
+      213: -3676514230365884282
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_16
+  - first:
+      213: -5394941501864025724
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_17
+  - first:
+      213: 8636377682437464752
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_18
+  - first:
+      213: 6965370308008379691
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_19
+  - first:
+      213: 7776014489426136051
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_20
+  - first:
+      213: -6872127101750918554
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_21
+  - first:
+      213: 3031198514247239468
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_22
+  - first:
+      213: 2056824187154353025
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_23
+  - first:
+      213: -2537034418988395935
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_24
+  - first:
+      213: -7668125887890437040
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_25
+  - first:
+      213: 2579012854872489318
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_26
+  - first:
+      213: -5713579778338593176
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_27
+  - first:
+      213: -5897156167028810000
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_28
+  - first:
+      213: -3841815584859190303
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_29
+  - first:
+      213: 845649178237756921
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_30
+  - first:
+      213: -2088790277635556755
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_31
+  - first:
+      213: -4521950067589433046
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_32
+  - first:
+      213: 7697737379518225057
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_33
+  - first:
+      213: 2994179503409079187
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_34
+  - first:
+      213: -4316884076495932370
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_35
+  - first:
+      213: 1064485587800363510
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_36
+  - first:
+      213: 843888756618551966
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_37
+  - first:
+      213: 7760138702045471631
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_38
+  - first:
+      213: 4763039711871559771
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_39
+  - first:
+      213: -8623246267831085844
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_40
+  - first:
+      213: -9088506768623905316
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_41
+  - first:
+      213: 8702530764688967346
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_42
+  - first:
+      213: -8211937275178243292
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_43
+  - first:
+      213: -1147932035111591542
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_44
+  - first:
+      213: 8124488461479741066
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_45
+  - first:
+      213: -872193534126772081
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_46
+  - first:
+      213: 3172909746040402253
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_47
+  - first:
+      213: 7357497731769147810
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_48
+  - first:
+      213: 1087335801759338080
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_49
+  - first:
+      213: 4283722059653222310
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_50
+  - first:
+      213: -985867137728265389
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_51
+  - first:
+      213: 1395087115583211542
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_52
+  - first:
+      213: 6759723334689612986
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_53
+  - first:
+      213: -8188688739786399027
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_54
+  - first:
+      213: -6292943598557776263
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_55
+  - first:
+      213: 5769318543472860449
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_56
+  - first:
+      213: -108637760668860828
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_57
+  - first:
+      213: 6986838262960991476
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_58
+  - first:
+      213: 4714318780405471120
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_59
+  - first:
+      213: 6944357541618679590
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_60
+  - first:
+      213: -2754437417708287616
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_61
+  - first:
+      213: 4155469542073838997
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_62
+  - first:
+      213: 4626507338565407041
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_63
+  - first:
+      213: -1012978455509606239
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_64
+  - first:
+      213: 5281307221876238148
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_65
+  - first:
+      213: 2100941626178283289
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_66
+  - first:
+      213: 2071355989687145546
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_67
+  - first:
+      213: -5834820466754215244
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_68
+  - first:
+      213: -6828159970328920069
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_69
+  - first:
+      213: -4318217141798932670
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_70
+  - first:
+      213: 6053108157477383567
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_71
+  - first:
+      213: -446140372340360985
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_72
+  - first:
+      213: 6063641409112894287
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_73
+  - first:
+      213: -5721518598551894122
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_74
+  - first:
+      213: 798944362413397989
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_75
+  - first:
+      213: 3362198106785829865
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_76
+  - first:
+      213: -6990689148860975215
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_77
+  - first:
+      213: 5025996789570682095
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_78
+  - first:
+      213: -5597745410984282208
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_79
+  - first:
+      213: -2663893884810367433
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_80
+  - first:
+      213: 2023031659676928415
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_81
+  - first:
+      213: 6689516586975072021
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_82
+  - first:
+      213: 1322367286142319940
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_83
+  - first:
+      213: 1128665956545452928
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_84
+  - first:
+      213: 6655280782395092200
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_85
+  - first:
+      213: 8711296677320413535
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_86
+  - first:
+      213: -5196470744610409182
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_87
+  - first:
+      213: -7722104890754474308
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_88
+  - first:
+      213: -7593828096888926026
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_89
+  - first:
+      213: -25416037786941126
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_90
+  - first:
+      213: 7095018268671156760
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_91
+  - first:
+      213: -1482604925053762972
+    second: pixellab-Create-1x1-grid-size-32x32-ppu-1794988848788_92
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 232
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526cb0a94cbe1ec4f89c601e20e58051
+      internalID: 1216162452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 232
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ace0ba09ef9c246a662b641e9a4b4c
+      internalID: -338488389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 232
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e4cb7aaffa4f24ebd80d4b982b396f
+      internalID: -1877158363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 232
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921d0968d979007419e2dd45b2585465
+      internalID: -398330354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 232
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21605916e219d2b459cdf57e83fe4b05
+      internalID: 1251318357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 232
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2eeefeb8282dd48966129411a1f46d
+      internalID: 404379137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 232
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3592caf26f442fe48b70b732d549a72e
+      internalID: -2097703124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 232
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04c96fd89c8b4d4e8701182bda004df
+      internalID: -814736605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 232
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0252b78546e6ed46bf71f715912cfea
+      internalID: 545356892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 232
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49472b57ef6cabb47b1f7c01bf3a5248
+      internalID: -786421574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dac4083877bae641beee2f3e075d323
+      internalID: 960453803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 207
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438009e9acebc944d9b520efb382eb7d
+      internalID: -1804210124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 207
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471bdcbe21a5f744598e52e01d8b23fa
+      internalID: 278466494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 207
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1202e7acd5714e438370fec96cc4df8
+      internalID: -1650440898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 207
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b6c8a375b33fc41a6c5122cd4c53f1
+      internalID: 538290298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 207
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aead2c3b3031c3b4f816cd13776fb085
+      internalID: 1946610573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 207
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223a2ac66eb708047aa9b3d5b5e71306
+      internalID: 1463479124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 207
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc0488eafc1b15439e4b8087ddee290
+      internalID: 675409352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 207
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf679324ae34d24cb7683450f352b30
+      internalID: -658027144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 207
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc6c650038b8de408b704990ed755e1
+      internalID: -1305549651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 181
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dd8082e9a05d746a7cae7e3f387e45
+      internalID: -1994647371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 181
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428e5a8af566dc547b53ffcd234f432d
+      internalID: -1610932246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 181
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd2f40cd0056d3468fec3057eee115c
+      internalID: 1086182110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 181
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ab24fa2eff16a4ea7ee968be2ad3bc
+      internalID: 1937707682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 181
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d7305d87e467347bb8fc9ea33bce66
+      internalID: -1667325075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 181
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca072b57d6c1b2b409d37d8645051eb3
+      internalID: -371864067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 181
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7134b5a6c34d90844a46e9cf484cd08a
+      internalID: 1189995847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 153
+        width: 73
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafd88db49bba4a4ab02e6e5a206286a
+      internalID: 1357012042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 156
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e289f5b3879774b82ea4f35eb493e7
+      internalID: -962212303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 156
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554fe7b9a3d33044cae20ec3e00cc9ba
+      internalID: 1802763881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 156
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e86357a950fb9743a64b60902518824
+      internalID: 1459560774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 156
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595d0951478e94f42b46da9064191494
+      internalID: 1307464753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 156
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce2f3af40d29324cbcb6827e60ac2ba
+      internalID: 2005057827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 156
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3319a4b17084bfd44b7b703fc1a347ab
+      internalID: -125779960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 156
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a584f59370ad16439ba37a06d1de23e
+      internalID: 836011655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d14405aaa9db74083496602a6ec1ea
+      internalID: -335926218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 130
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382b324ecf86361479f0049de7e83bc9
+      internalID: 999038230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 130
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201cd15ebc9a5fd44a51f93d545973e5
+      internalID: 541327264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 130
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40eaa465db244244aaf0d3b5ec88cdd8
+      internalID: 1636573725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 130
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a8e880a7e74bf46b827f36b6d938a1
+      internalID: -438272539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 130
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f328e4a28dacc3c47b23acb634b347ee
+      internalID: -1229921477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 130
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79010b497f4da12489698d77e336279d
+      internalID: -1291414758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 130
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596667ab30cb95f409c8c0c332a46701
+      internalID: 1758724881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 130
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336db932be1f81c47acde2a93259c521
+      internalID: 491695820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 130
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a1e04f282d57741bb25c11d8cdf1e1
+      internalID: 1885980543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643ec44dca9fb814eab9a5e7248d6965
+      internalID: -1596084154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 105
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b6eb4befd5b0e4ca96984246a981b9
+      internalID: 1425349740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 105
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311456334fb01824f8a5e7089981a04a
+      internalID: -1383569903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 105
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0065f9073bf5c6e42a3cdc8c06d3deb0
+      internalID: 145261137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 105
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b21a4171482f2d4dabcae36f58cd318
+      internalID: -45048966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 105
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8356f9044929a34a83d626c38d3ba29
+      internalID: 753156279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 105
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acafe2f28c29ca4180e57a452f9514b
+      internalID: -1972526176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 105
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745d9da2b47d5c541b66ff652a70c411
+      internalID: 526660623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 105
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73f525c70f807c469bb38b885caae00
+      internalID: -1441442798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 105
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835cc961ba8d33a4f97cd9b0ebfec836
+      internalID: 519188374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 79
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ead326393a1ad04e80b08dca8999919
+      internalID: -1653386560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 79
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e11df8174e3964093b79cf14014f7b
+      internalID: -1645737771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 79
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b565dff03fa579f4c9ea8f93109b59cf
+      internalID: -657477151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 79
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0643f3fd1c5864a869c0ae7a0306e8
+      internalID: -661061184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 79
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd13835b5e6b4894895989f4ea1842f1
+      internalID: 632269120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 79
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b19bf2457a9ef41a1803609717db8d
+      internalID: 1395462990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 79
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd80970f13191e345bce843652eb1a71
+      internalID: 353222306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 79
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96813578ff8f1604c8ffe7b91750effb
+      internalID: -572504921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 79
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3310b0051fac104d8316ed01b785cd4
+      internalID: -1355719793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 79
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4091d3925b94e854b82a83876a2b4197
+      internalID: -1349960344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 53
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadf5ccb356d72b4db48d276df0a9aad
+      internalID: -869891820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 53
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbaad51304b2961438f0bd931b85d266
+      internalID: -1439490945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 53
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d07a2e34d9afe4d8e8822a9c3b8ec9
+      internalID: 19549381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 53
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60939f6c8d20f3e4fa008be93f016acd
+      internalID: -458535154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 53
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e03e9fbec350d2448068157ebef7521
+      internalID: -1776410673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 53
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2070af7fc6cb7a4b8fcf40fc5de8d2e
+      internalID: -1681876240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 53
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919c5e70aa98b304f854dc387078ca7a
+      internalID: 1444447931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 53
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edada6d0e4a27cb49811c5b4f9fd96c6
+      internalID: -123254158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 53
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a81dce944fd3248b669afa801c654c
+      internalID: 310809411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 53
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea57c0acfbb6bb948a02d3f72135cec5
+      internalID: 1249995723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 28
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f787ce00fc395c840af55fb091ffec83
+      internalID: 1597227685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 28
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633594c31ea668d478e284c37b0190b8
+      internalID: 1509134707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 28
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dd1e02fdd14f04e85fd2a0902a5667
+      internalID: 2107489730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 28
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa155e8e95c0d74f9f57480166d88d9
+      internalID: -1552774033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 28
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68789f36c7bdd84dbf3dfab68afe095
+      internalID: -395752241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 28
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a0ab9ca50569b448c478030e7d964a
+      internalID: -1285771431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 28
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4b4625dc347664899c8a9cea73c3ce
+      internalID: -2057986289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc36f32067aaa7543b361b65ece971f2
+      internalID: 1150962286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780c3137c212dce418951cff1bbc0103
+      internalID: 1598097203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 28
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ce2472d6edaf547a9ab720c673ebb1
+      internalID: -2109529378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c678327c95da32f42b72acc49708fb26
+      internalID: -1857173938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0ad2ea870bea44f8796e01a8a1461a
+      internalID: 1001689674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fcf62ca24280e45a19d57c5f1b9233
+      internalID: 432575555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b076a1c0269bbd43b34b9cb39ba5390
+      internalID: 123116232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdf659237bfcc94ea1ab569ac4e46a9
+      internalID: -673617539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514664bc985fe5748b6942bc4390d7bf
+      internalID: -2119085132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde9163cda9a7af46bff70d3abf64f01
+      internalID: -1609901904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ConveyorBelt_Spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 2
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccc848b4fbe0ed418b2e305ab4d8294
+      internalID: -1553840036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 84a596d239a3f764bb06f9f64fca4b10
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      ConveyorBelt_Spritesheet_0: 1216162452
+      ConveyorBelt_Spritesheet_1: -338488389
+      ConveyorBelt_Spritesheet_10: 960453803
+      ConveyorBelt_Spritesheet_11: -1804210124
+      ConveyorBelt_Spritesheet_12: 278466494
+      ConveyorBelt_Spritesheet_13: -1650440898
+      ConveyorBelt_Spritesheet_14: 538290298
+      ConveyorBelt_Spritesheet_15: 1946610573
+      ConveyorBelt_Spritesheet_16: 1463479124
+      ConveyorBelt_Spritesheet_17: 675409352
+      ConveyorBelt_Spritesheet_18: -658027144
+      ConveyorBelt_Spritesheet_19: -1305549651
+      ConveyorBelt_Spritesheet_2: -1877158363
+      ConveyorBelt_Spritesheet_20: -1994647371
+      ConveyorBelt_Spritesheet_21: -1610932246
+      ConveyorBelt_Spritesheet_22: 1086182110
+      ConveyorBelt_Spritesheet_23: 1937707682
+      ConveyorBelt_Spritesheet_24: -1667325075
+      ConveyorBelt_Spritesheet_25: -371864067
+      ConveyorBelt_Spritesheet_26: 1189995847
+      ConveyorBelt_Spritesheet_27: 1357012042
+      ConveyorBelt_Spritesheet_28: -962212303
+      ConveyorBelt_Spritesheet_29: 1802763881
+      ConveyorBelt_Spritesheet_3: -398330354
+      ConveyorBelt_Spritesheet_30: 1459560774
+      ConveyorBelt_Spritesheet_31: 1307464753
+      ConveyorBelt_Spritesheet_32: 2005057827
+      ConveyorBelt_Spritesheet_33: -125779960
+      ConveyorBelt_Spritesheet_34: 836011655
+      ConveyorBelt_Spritesheet_35: -335926218
+      ConveyorBelt_Spritesheet_36: 999038230
+      ConveyorBelt_Spritesheet_37: 541327264
+      ConveyorBelt_Spritesheet_38: 1636573725
+      ConveyorBelt_Spritesheet_39: -438272539
+      ConveyorBelt_Spritesheet_4: 1251318357
+      ConveyorBelt_Spritesheet_40: -1229921477
+      ConveyorBelt_Spritesheet_41: -1291414758
+      ConveyorBelt_Spritesheet_42: 1758724881
+      ConveyorBelt_Spritesheet_43: 491695820
+      ConveyorBelt_Spritesheet_44: 1885980543
+      ConveyorBelt_Spritesheet_45: -1596084154
+      ConveyorBelt_Spritesheet_46: 1425349740
+      ConveyorBelt_Spritesheet_47: -1383569903
+      ConveyorBelt_Spritesheet_48: 145261137
+      ConveyorBelt_Spritesheet_49: -45048966
+      ConveyorBelt_Spritesheet_5: 404379137
+      ConveyorBelt_Spritesheet_50: 753156279
+      ConveyorBelt_Spritesheet_51: -1972526176
+      ConveyorBelt_Spritesheet_52: 526660623
+      ConveyorBelt_Spritesheet_53: -1441442798
+      ConveyorBelt_Spritesheet_54: 519188374
+      ConveyorBelt_Spritesheet_55: -1653386560
+      ConveyorBelt_Spritesheet_56: -1645737771
+      ConveyorBelt_Spritesheet_57: -657477151
+      ConveyorBelt_Spritesheet_58: -661061184
+      ConveyorBelt_Spritesheet_59: 632269120
+      ConveyorBelt_Spritesheet_6: -2097703124
+      ConveyorBelt_Spritesheet_60: 1395462990
+      ConveyorBelt_Spritesheet_61: 353222306
+      ConveyorBelt_Spritesheet_62: -572504921
+      ConveyorBelt_Spritesheet_63: -1355719793
+      ConveyorBelt_Spritesheet_64: -1349960344
+      ConveyorBelt_Spritesheet_65: -869891820
+      ConveyorBelt_Spritesheet_66: -1439490945
+      ConveyorBelt_Spritesheet_67: 19549381
+      ConveyorBelt_Spritesheet_68: -458535154
+      ConveyorBelt_Spritesheet_69: -1776410673
+      ConveyorBelt_Spritesheet_7: -814736605
+      ConveyorBelt_Spritesheet_70: -1681876240
+      ConveyorBelt_Spritesheet_71: 1444447931
+      ConveyorBelt_Spritesheet_72: -123254158
+      ConveyorBelt_Spritesheet_73: 310809411
+      ConveyorBelt_Spritesheet_74: 1249995723
+      ConveyorBelt_Spritesheet_75: 1597227685
+      ConveyorBelt_Spritesheet_76: 1509134707
+      ConveyorBelt_Spritesheet_77: 2107489730
+      ConveyorBelt_Spritesheet_78: -1552774033
+      ConveyorBelt_Spritesheet_79: -395752241
+      ConveyorBelt_Spritesheet_8: 545356892
+      ConveyorBelt_Spritesheet_80: -1285771431
+      ConveyorBelt_Spritesheet_81: -2057986289
+      ConveyorBelt_Spritesheet_82: 1150962286
+      ConveyorBelt_Spritesheet_83: 1598097203
+      ConveyorBelt_Spritesheet_84: -2109529378
+      ConveyorBelt_Spritesheet_85: -1857173938
+      ConveyorBelt_Spritesheet_86: 1001689674
+      ConveyorBelt_Spritesheet_87: 432575555
+      ConveyorBelt_Spritesheet_88: 123116232
+      ConveyorBelt_Spritesheet_89: -673617539
+      ConveyorBelt_Spritesheet_9: -786421574
+      ConveyorBelt_Spritesheet_90: -2119085132
+      ConveyorBelt_Spritesheet_91: -1609901904
+      ConveyorBelt_Spritesheet_92: -1553840036
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

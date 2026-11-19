@@ -6,7 +6,6 @@ public class Sink : MonoBehaviour, IInteractable
 {
     [SerializeField] private float washDuration = 2f;
 
-    private bool isWashing = false;
     private SinkState state = SinkState.Empty;
 
     public void Interact(PlayerInteractor player)
